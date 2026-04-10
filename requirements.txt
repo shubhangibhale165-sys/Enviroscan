@@ -1,11 +1,7 @@
+streamlit==1.32.0
 pandas
 numpy
+joblib
+plotly
 requests
 scikit-learn
-xgboost
-matplotlib
-folium
-streamlit
-joblib
-osmnx
-geopy
